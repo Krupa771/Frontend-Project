@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ishwarya/static/css/main.c96afc58.css",
+    "main.js": "/Ishwarya/static/js/main.555716f2.js",
+    "static/js/453.2c5179dd.chunk.js": "/Ishwarya/static/js/453.2c5179dd.chunk.js",
+    "index.html": "/Ishwarya/index.html",
+    "main.c96afc58.css.map": "/Ishwarya/static/css/main.c96afc58.css.map",
+    "main.555716f2.js.map": "/Ishwarya/static/js/main.555716f2.js.map",
+    "453.2c5179dd.chunk.js.map": "/Ishwarya/static/js/453.2c5179dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c96afc58.css",
+    "static/js/main.555716f2.js"
+  ]
+}
